@@ -21,3 +21,4 @@ getAnalytics(dateFilter).then((data) => {
     }
   }
 });
+console.log('all done');
