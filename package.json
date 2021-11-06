@@ -1,0 +1,17 @@
+{
+  "name": "ddt-analytics",
+  "version": "1.0.0",
+  "description": "A script to pull data from cloudflare and inject into notion",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.4.6",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
